@@ -13,6 +13,7 @@ public static void main(String[] args){
 ```
 - 前面参数是代码生成路径,后面是文件数量
 - 把Java代码编译下：
+`Generator/CodeGenerator] (master)  $ javac ./src/com/generator/Generator.java -d ./bin/`
 `javac   /Users/guoqiang/Desktop/CodeGenerator/src/com/generator/Generator.java`
 
 编译成 class 文件
